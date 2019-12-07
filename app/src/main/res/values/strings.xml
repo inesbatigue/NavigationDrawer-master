@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyLab</string>
+    <string name="Accueil">Accueil</string>
+    <string name="Mesresultats">Mes Résultats</string>
+    <string name="Informations">Informations</string>
+    <string name="Centres">Centres</string>
+    <string name="Actualités">Actualités</string>
+    <string name="MonCompte">Mon Compte</string>
+    <string name="Deconnexion">Se Déconnecter</string>
+
+</resources>
